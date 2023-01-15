@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-image: url(/image/edubg\ 1);
+    background-image: url(/images/bg2.jpg);
     background-size:cover;
     background-position: center center;
     backface-visibility: var(10px);

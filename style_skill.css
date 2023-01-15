@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-image: url(/image/blur_i.jpg);
+    background-image: url(/images/bg3.jpg);
     enable-background: blur(2em) ;
     background-repeat: no-repeat;
     background-size: cover;
